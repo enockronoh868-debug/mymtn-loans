@@ -1,0 +1,8 @@
+{
+  "name": "mtn-loan-app",
+  "version": "1.0.0",
+  "description": "MTN Loan App",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
